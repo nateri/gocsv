@@ -1,4 +1,3 @@
-// unicourt
 package main
 
 import (

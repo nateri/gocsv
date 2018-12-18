@@ -18,13 +18,13 @@ type Entry struct {
 	CaseNumber              string `csv:"Case Number"`
 	FilingDate              string `csv:"Filing Date"`
 	CaseTypeCategory        string `csv:"Case Type Category"`
-	CaseTypeSubCategory     string `csv:"Case Type SubCategory"`
+	CaseTypeSubCategory     string `csv:"Case Type Sub Category"`
 	CaseType                string `csv:"Case Type"`
 	CaseStatusCategory      string `csv:"Case Status Category"`
 	CaseStatus              string `csv:"Case Status"`
 	Jurisdiction            string `csv:"Jurisdiction"`
 	Courthouse              string `csv:"Courthouse"`
-	AllPartyNames           string `csv:"AllParty Names"`
+	AllPartyNames           string `csv:"All Party Names"`
 	PartyName               string `csv:"Party Name"`
 	PartyType               string `csv:"Party Type"`
 	PartyEntityType         string `csv:"Party Entity Type"`
